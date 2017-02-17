@@ -1,3 +1,4 @@
 /.mymetadata
 /.classpath
 *.class
+/bin/
